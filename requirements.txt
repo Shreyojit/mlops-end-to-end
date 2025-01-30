@@ -16,3 +16,4 @@ types-pyyaml
 scipy
 flask
 flask-cors
+-e .
