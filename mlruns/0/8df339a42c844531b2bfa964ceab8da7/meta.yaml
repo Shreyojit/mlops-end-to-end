@@ -1,0 +1,15 @@
+artifact_uri: file:///home2/cslab/Music/Mtech-projects/Mlops-proj/Chest-Cancer-Mlops/mlops-end-to-end/mlruns/0/8df339a42c844531b2bfa964ceab8da7/artifacts
+end_time: 1738336449158
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8df339a42c844531b2bfa964ceab8da7
+run_name: merciful-snail-119
+run_uuid: 8df339a42c844531b2bfa964ceab8da7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738336431118
+status: 3
+tags: []
+user_id: cslab

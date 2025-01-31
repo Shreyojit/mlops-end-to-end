@@ -1,0 +1,15 @@
+artifact_uri: file:///home2/cslab/Music/Mtech-projects/Mlops-proj/Chest-Cancer-Mlops/mlops-end-to-end/mlruns/0/3f00cad69003416a829dfecec898491e/artifacts
+end_time: 1738335002622
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3f00cad69003416a829dfecec898491e
+run_name: serious-midge-684
+run_uuid: 3f00cad69003416a829dfecec898491e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738334985784
+status: 3
+tags: []
+user_id: cslab

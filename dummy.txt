@@ -1,0 +1,7 @@
+import dagshub
+dagshub.init(repo_owner='shreyojitdas95', repo_name='mlops-end-to-end', mlflow=True)
+
+import mlflow
+with mlflow.start_run():
+  mlflow.log_param('parameter name', 'value')
+  mlflow.log_metric('metric name', 1)
