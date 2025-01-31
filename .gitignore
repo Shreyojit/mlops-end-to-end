@@ -12,6 +12,7 @@ build/
 develop-eggs/
 dist/
 downloads/
+mlruns/
 eggs/
 .eggs/
 lib/
@@ -160,3 +161,4 @@ cython_debug/
 #.idea/
 
 artifacts/*
+mlruns/*
